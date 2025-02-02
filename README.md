@@ -24,7 +24,7 @@ Simpyl es más que un simple intérprete; es un proyecto en constante evolución
 
 Cómo contribuir
 
-Clona el repositorio: git clone https://github.com/tu_usuario/simpyl.git
+Clona el repositorio: git clone https://github.com/T4NG4N4/Simpyl_Interpreter_in_C-
 
 Explora el código y revisa la documentación.
 
